@@ -2,7 +2,7 @@
 
 R was my first love, but I am open to learning more!
 
-I mostly study the cause and effects of groundwater dependent ecosystems. 
+I mostly study the causes and effects of groundwater dependent ecosystems. 
 
 <!---
 matthewl-ecohydro/matthewl-ecohydro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
